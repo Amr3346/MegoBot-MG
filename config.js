@@ -17,7 +17,7 @@ global.suittag = ['201025663589'];
 global.prems = ['201025663589'];
 
 global.packname = '☾︎ FOREIGNBOT-𝙈𝘿 ☽︎';
-global.author = foreign-𝙱𝙾𝚃☆';
+global.author = 'foreign-𝙱𝙾𝚃☆';
 global.wm = '✯FOREIGNBOT-𝐌𝐃✯';
 global.vs = 'V2 • 1.0.5':
 global.titulowm = '☾︎ FOREIGNBOT-𝙈𝘿 ☽︎';
